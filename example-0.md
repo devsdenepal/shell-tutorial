@@ -1,4 +1,4 @@
-# Exaple of shell script
+# Example of shell script
 ```
 cal
 date
